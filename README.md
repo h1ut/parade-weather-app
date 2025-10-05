@@ -30,7 +30,7 @@ This application provides climate-based weather probability forecasts for future
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/parade-weather-app.git
+git clone https://github.com/h1ut/parade-weather-app.git
 
 # Navigate to project directory
 cd parade-weather-app
