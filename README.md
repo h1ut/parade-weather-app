@@ -14,10 +14,6 @@ This application provides climate-based weather probability forecasts for future
 - 📊 Visual charts and climate information
 - 🌍 Climate zone analysis
 
-## 🚀 Live Demo
-
-[Add your live demo link here after deployment]
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React + Vite
