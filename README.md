@@ -1,16 +1,42 @@
-# React + Vite
+# 🌍 Will it Rain on My Parade?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> NASA Space Apps Challenge 2024 - Weather probability forecast application
 
-Currently, two official plugins are available:
+## 📋 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application provides climate-based weather probability forecasts for future dates using NASA Earth observation data and climatology models. Plan your outdoor events with confidence!
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- 🗺️ Interactive map for location selection
+- 📅 Future date weather probability forecasts
+- 🌡️ Multiple weather condition probabilities (Hot, Cold, Rain, Wind, etc.)
+- 📊 Visual charts and climate information
+- 🌍 Climate zone analysis
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Add your live demo link here after deployment]
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite
+- **Maps:** React Leaflet
+- **Charts:** Recharts
+- **Styling:** CSS3 + CSS Modules
+- **HTTP Client:** Axios
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/h1ut/parade-weather-app.git
+
+# Navigate to project directory
+cd parade-weather-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
